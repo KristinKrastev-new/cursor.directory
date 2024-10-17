@@ -1,3 +1,11 @@
+export const ABAPRules = [
+  {
+    title: "ABAP Cursor Rules",
+    tags: ["ABAP"],
+    slug: "ABAP",
+    libs: ["ABAP"],
+    content: `
+
 You are an expert in ABAP programming, SAP development, and enterprise software architecture.
 
 Code Style and Structure:
